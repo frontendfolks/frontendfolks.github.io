@@ -3,7 +3,7 @@ title: '&lt; front-end-folks /&gt;'
 email: frontendfolks@gmail.com
 description: A Material Design and jekyll inspired Blog
 footer_text: 'Made with <span class="icon-favorite pulse"></span> by <a href="http://frontendfolks.com">Adhikari Srinivasa Kumar</a>.'
-baseurl: "/blog"
+
 
 # Social usernames
 github_username:  uiuxsrini

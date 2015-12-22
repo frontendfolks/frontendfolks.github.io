@@ -16,11 +16,11 @@ home: true
       <li class="list-item">
         <div class="row">
             <div class="col s1">
-              <img src="{{ author.image | prepend: site.baseurl }}" alt="{{ author.name }}">
+              <img src="{{ author.image }}" alt="{{ author.name }}">
             </div>
             <div class="col s11">
                <h2>
-               <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{% if post.link %}<span class="icon-call-made"></span>{% endif %}{{ post.title }}</a>
+               <a class="post-link" href="{{ post.url }}">{% if post.link %}<span class="icon-call-made"></span>{% endif %}{{ post.title }}</a>
            </h2>
            <p class="post-meta">
               <span><i class="fa fa-calendar"></i> {{ post.date | date: "%b %-d, %Y" }} </span> | 
