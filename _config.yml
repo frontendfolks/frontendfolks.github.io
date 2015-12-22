@@ -1,0 +1,33 @@
+# Site settings
+title: '&lt; front-end-folks /&gt;'
+email: frontendfolks@gmail.com
+description: A Material Design and jekyll inspired Blog
+footer_text: 'Made with <span class="icon-favorite pulse"></span> by <a href="http://frontendfolks.com">Adhikari Srinivasa Kumar</a>.'
+baseurl: "/blog"
+
+# Social usernames
+github_username:  uiuxsrini
+email: frontendfolks@gmail.com
+
+# Build settings
+markdown: kramdown
+include: ['_pages', '_assets']
+exculde: ['.sass_cache', 'README.md']
+sass:
+  sass_dir: '_assets/_sass'
+permalink: "/:title/"
+comments: true
+
+
+collections:
+  authors:
+  projects:
+
+# Defaults
+defaults:
+  -
+    scope:
+      path: "_pages"
+    values:
+      is_in_nav: true
+      

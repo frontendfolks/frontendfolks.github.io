@@ -1,0 +1,14 @@
+<div id="bg-blur"></div>
+<div class="content-wrap">
+<header>
+  <div class="wrapper">
+    
+    {% if page.title %}{% if page.link %}<a class="linked-post" href="{{ page.link }}">{% endif %}<h1>{% if page.link %}<span class="icon-call-made"></span>{% endif %}{{ page.title }}</h1>{% if page.link %}</a>{% endif %}{% else %}{% endif %}
+  </div>
+</header>
+
+  <nav>
+    
+    <div class="nav-title">{{ site.title }}</div>
+    
+  </nav>

@@ -1,0 +1,36 @@
+---
+layout: default
+home: true
+---
+
+<div id="home">
+  <ul class="post-list">
+      {% for post in site.posts %}
+      {% assign author = site.authors | where:"name",post.author | first %}
+      {% assign words = post.content | number_of_words %}
+      {% if words <= 90 %}
+      {% assign reading-time = "1m" %}
+      {% else %}
+      {% assign reading-time = words | divided_by:180 | append:"m" %}
+      {% endif %}
+      <li class="list-item">
+        <div class="row">
+            <div class="col s1">
+              <img src="{{ author.image | prepend: site.baseurl }}" alt="{{ author.name }}">
+            </div>
+            <div class="col s11">
+               <h2>
+               <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{% if post.link %}<span class="icon-call-made"></span>{% endif %}{{ post.title }}</a>
+           </h2>
+           <p class="post-meta">
+              <span><i class="fa fa-calendar"></i> {{ post.date | date: "%b %-d, %Y" }} </span> | 
+               <span class="name"><strong>{{ author.name }}...<i class="fa fa-pencil"></i></strong></span> | 
+              <span class="job_title"><span>{{ author.job_title }}</span></span>
+
+            </p>
+            </div>
+          </div>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
