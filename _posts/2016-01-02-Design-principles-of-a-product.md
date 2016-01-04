@@ -50,9 +50,9 @@ The market share split between Android and iPhone suggests Android is more popul
 
 **Analyze your own product against the principle of immediate intuition using the following questions:**
 
-1. How does using it reduce stress?
-2. How long would it take someone to fully understand it?
-3. In what ways can it be improved?
+* How does using it reduce stress?
+* How long would it take someone to fully understand it?
+* In what ways can it be improved?
 
 #####Beauty Underneath
 
@@ -70,9 +70,9 @@ I would rate this table  9 out of 10 for beauty underneath because of its tastef
 
 **To assess your product against the principle of beauty underneath, ask yourself:**
 
-1. Does my product have usefulness that is not immediately apparent?
-2. Is a hidden gem of value lying below the surface of my product?
-3. Does my product have a lagniappe?
+* Does my product have usefulness that is not immediately apparent?
+* Is a hidden gem of value lying below the surface of my product?
+* Does my product have a lagniappe?
 
 #####Approachable Innovation
 
@@ -84,9 +84,9 @@ These are stories that demonstrate that, for an innovation to be successful, it 
 
 **Assess your product against the principle of approachable innovation by asking these questions:**
 
-1. What is different about your product from others like it?
-2. When you tell others about it, do they understand it right away?
-3. Will customers be familiar with at least some elements of your product?
+* What is different about your product from others like it?
+* When you tell others about it, do they understand it right away?
+* Will customers be familiar with at least some elements of your product?
 
 #####Form And Color Agreement
 
@@ -96,9 +96,9 @@ Why these colors? Because they express the purpose of the product. If the hue of
 
 **As a product designer, have you chosen the best form and colors for your product? Ask yourself these questions:**
 
-1. Have you researched the emotions behind the colors you’ve chosen?
-2. What do the curves, lines, angles, dimensions and textures say about the product?
-3. Do the color and form agree with your product’s purpose?
+* Have you researched the emotions behind the colors you’ve chosen?
+* What do the curves, lines, angles, dimensions and textures say about the product?
+* Do the color and form agree with your product’s purpose?
 
 #####Repeatable Methodology
 
@@ -112,8 +112,8 @@ A creative process seeks to remove the “chance” and “luck” behind a grea
 
 **Analyze how repeatable your methodology is with these questions:**
 
-1. Did the idea come from one person or from a team of people?
-2. Will the product continue to satisfy a need in three to five years from now?
-3. Is the product multi-generational?
+* Did the idea come from one person or from a team of people?
+* Will the product continue to satisfy a need in three to five years from now?
+* Is the product multi-generational?
 
 Now it’s your turn. If you have read this far, then you know about the six design principles inspired by the world’s greatest product designers and how they apply to the 5 products I’ve looked at. To try this out yourself, pick a product — perhaps yours, perhaps a random one, perhaps a website or mobile app — and run it through the six steps of the product design.
