@@ -11,12 +11,12 @@ This culture highlights two core elements in the creative process: the ideas and
 
 #####six core product design principles
 
-* 1.irreducible simplicity
-* 2.immediate intuition
-* 3.beauty underneath
-* 4.approachable innovation
-* 5.form and color agreement
-* 6.replicable methodology.
+ 1.irreducible simplicity
+ 2.immediate intuition
+ 3.beauty underneath
+ 4.approachable innovation
+ 5.form and color agreement
+ 6.replicable methodology.
 
 To make decisions, we can use these principles as a test by rating a product on a scale from 1 to 10 for each of the principles above. The lowest rating is a 1, and the highest is a 10. Each explanation below comes with examples to give you an idea of how to rate your product. Keep in mind that creative analysis is, ultimately, subjective and personal (like appreciating wine or a painting); therefore, each person’s rankings will be different.
 
@@ -26,53 +26,53 @@ But keep in mind that the purpose of this “test” is to facilitate a thought 
 
 You’ve created a product to meet a need. (If this isn’t true, then stop reading this and first build something helpful.) Now ask yourself, “Does my product have extraneous features that diminish the experience and satisfaction it provides?”
 
-"Deciding what not to do is as important as deciding what to do." - Steve Jobs
+> "Deciding what not to do is as important as deciding what to do." - Steve Jobs
 
 Take a car. A car is created, in its most basic form, to get you from point A to point B. The audio system doesn’t help you get from point A to point B, right? Therefore, should the audio system be removed for the sake of simplicity? No. The audio system is left in because it makes the experience of getting from point A to point B more satisfying. 
 The goal of any product design is to reduce everything until you reach the point that satisfaction is not sacrificed.
 
-#####Now, look at your product and apply the principle of irreducible simplicity:
+**Now, look at your product and apply the principle of irreducible simplicity:**
 
-* What single problem does it solve clearly and thoroughly?
-* Does each feature solve a single problem clearly and thoroughly?
-* What features can be taken away without sacrificing satisfaction?
+1. What single problem does it solve clearly and thoroughly?
+2. Does each feature solve a single problem clearly and thoroughly?
+3. What features can be taken away without sacrificing satisfaction?
 
 #####Immediate Intuition
 
 You’ve read about the central tension between Android and iPhone: an open system versus a closed one. Google allows its users to tinker extensively, allowing full customization of its software, whereas Apple controls the user’s experience by setting up parameters and standards that limit the iPhone’s flexibility.
 (For example, an iPhone app cannot be programmed to close another app.)
 
-“Any product that needs a manual to work is broken.” - Elon Musk
+> “Any product that needs a manual to work is broken.” - Elon Musk
 
 While both mobile providers would argue that their approach is best, they have both created products that make different statements about the principle of immediate intuition. Google is essentially saying, “We’ve made a product that could be more intuitive — and we want you to help us figure it out. Enjoy!” Apple is claiming, “We’ve made a product for which there is no rational alternative. Enjoy!”
 
 The market share split between Android and iPhone suggests Android is more popular (78% to Apple’s 17.8%), but Apple’s 92% profit share in the smartphone industry suggests a stronger product that people are willing to pay more for. This tension highlights that what is intuitive to me might not be intuitive to you. So, remember that, when designing for intuition, empathize with your target customer.
 
-Analyze your own product against the principle of immediate intuition using the following questions:
+**Analyze your own product against the principle of immediate intuition using the following questions:**
 
-* How does using it reduce stress?
-* How long would it take someone to fully understand it?
-* In what ways can it be improved?
+1. How does using it reduce stress?
+2. How long would it take someone to fully understand it?
+3. In what ways can it be improved?
 
 #####Beauty Underneath
 
-“[Be] fanatical in terms of care and attention to things people don’t see immediately. It’s like finishing the back of a drawer. Nobody’s going to see it, but you do it anyway. Products are a form of communication — they demonstrate your value system, what you care about.” - Jonathan Ive
+> “[Be] fanatical in terms of care and attention to things people don’t see immediately. It’s like finishing the back of a drawer. > > Nobody’s going to see it, but you do it anyway. Products are a form of communication — they demonstrate your value system, what you > care about.” - Jonathan Ive
 
 Let’s say you put your dating hat on (or back on) and take an attractive and interested person out to dinner, sharing wine and having a great time. As the night goes on, it dawns on you that this person has an incredible story, a humble self-regard and a genuine heart for others. You stop seeing their physical attractiveness and are now passionately curious to really get to know this person.
 Hence, a second date. In the same way, when the user of a product unexpectedly discovers beauty underneath (the hidden value), they will want to continue using the product.
 
-#####EXAMPLE SMART TABLE:
+**Example Smart Table**
 
 My laptop’s battery died once in Meeting, as I was sitting at a large dark table made of reclaimed wood. I looked forlornly at the wall, where the power sockets were, and dreaded running my charger awkwardly across the laps of the other people sitting at the table. I rustled in my bag for the charger and began apologizing for getting in the way of others, dragging my charger to the wall and bending down to plug in. I sat back down. That’s when the person across from me said, “You know there is a power socket in the table, right? It’s, like, right there.” He pointed right in front of me.
 I looked underneath the table, and just four inches from my face were two power sockets. Oh. Beauty underneath.
 
 I would rate this table  9 out of 10 for beauty underneath because of its tasteful, unobtrusive appearance and its surprisingly useful technological undergirding. Soon, we will see Powermat Spots built right into the tables, allowing customers to wirelessly charge compatible mobile devices simply by placing them on the table — no plugging or cords involved.
 
-To assess your product against the principle of beauty underneath, ask yourself:
+**To assess your product against the principle of beauty underneath, ask yourself:**
 
-* Does my product have usefulness that is not immediately apparent?
-* Is a hidden gem of value lying below the surface of my product?
-* Does my product have a lagniappe?
+1. Does my product have usefulness that is not immediately apparent?
+2. Is a hidden gem of value lying below the surface of my product?
+3. Does my product have a lagniappe?
 
 #####Approachable Innovation
 
@@ -82,11 +82,11 @@ These are stories that demonstrate that, for an innovation to be successful, it 
 
 ![innovation](../_assets/images/innovation.png)
 
-Assess your product against the principle of approachable innovation by asking these questions:
+**Assess your product against the principle of approachable innovation by asking these questions:**
 
-* What is different about your product from others like it?
-* When you tell others about it, do they understand it right away?
-* Will customers be familiar with at least some elements of your product?
+1. What is different about your product from others like it?
+2. When you tell others about it, do they understand it right away?
+3. Will customers be familiar with at least some elements of your product?
 
 #####Form And Color Agreement
 
@@ -94,11 +94,11 @@ It is absolutely critical that form and color agree with a product’s purpose. 
 
 Why these colors? Because they express the purpose of the product. If the hue of the gold or silver was a smidge deeper, the color would have said, “flash and glitz,” instead of “intelligence and power.” If you removed the “space” from “space gray,” the color would have said “dull” instead of “imaginative.” A helpful product can be ruined by misaligned form and color. Getting it right is important.
 
-As a product designer, have you chosen the best form and colors for your product? Ask yourself these questions:
+**As a product designer, have you chosen the best form and colors for your product? Ask yourself these questions:**
 
-* Have you researched the emotions behind the colors you’ve chosen?
-* What do the curves, lines, angles, dimensions and textures say about the product?
-* Do the color and form agree with your product’s purpose?
+1. Have you researched the emotions behind the colors you’ve chosen?
+2. What do the curves, lines, angles, dimensions and textures say about the product?
+3. Do the color and form agree with your product’s purpose?
 
 #####Repeatable Methodology
 
@@ -108,10 +108,12 @@ The Wall Street Journal published an article, “After the One-Hit Wonder,” te
 
 This happens because one-hit wonders come not from a methodology, but from a one-off idea of one person.
 
-A creative process seeks to remove the “chance” and “luck” behind a great product and replace it with a methodology for delivering value and design consistently over time. Analyze how repeatable your methodology is with these questions:
+A creative process seeks to remove the “chance” and “luck” behind a great product and replace it with a methodology for delivering value and design consistently over time. 
 
-* Did the idea come from one person or from a team of people?
-* Will the product continue to satisfy a need in three to five years from now?
-* Is the product multi-generational?
+**Analyze how repeatable your methodology is with these questions:**
+
+1. Did the idea come from one person or from a team of people?
+2. Will the product continue to satisfy a need in three to five years from now?
+3. Is the product multi-generational?
 
 Now it’s your turn. If you have read this far, then you know about the six design principles inspired by the world’s greatest product designers and how they apply to the 5 products I’ve looked at. To try this out yourself, pick a product — perhaps yours, perhaps a random one, perhaps a website or mobile app — and run it through the six steps of the product design.
