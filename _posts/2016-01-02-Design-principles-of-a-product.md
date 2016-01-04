@@ -89,3 +89,25 @@ Assess your product against the principle of approachable innovation by asking t
 It is absolutely critical that form and color agree with a product’s purpose. All products — whether books, cups, apps, clothes — have a form and color for a specific purpose. For example, throughout the iPhone generations, the most visible changes have been in form and color — larger sizes, new colors, rounded edges. The iPhone 6 was very deliberately released with only three colors: gold, silver and space gray.
 
 Why these colors? Because they express the purpose of the product. If the hue of the gold or silver was a smidge deeper, the color would have said, “flash and glitz,” instead of “intelligence and power.” If you removed the “space” from “space gray,” the color would have said “dull” instead of “imaginative.” A helpful product can be ruined by misaligned form and color. Getting it right is important.
+
+As a product designer, have you chosen the best form and colors for your product? Ask yourself these questions:
+
+* Have you researched the emotions behind the colors you’ve chosen?
+* What do the curves, lines, angles, dimensions and textures say about the product?
+* Do the color and form agree with your product’s purpose?
+
+#####Repeatable Methodology
+
+Apple discovered that what is critical is not necessarily the product itself, but rather the methodology by which the idea behind it comes to life. In other words, anyone can get lucky and make a good product; but a methodology can produce generations of great products.
+
+The Wall Street Journal published an article, “After the One-Hit Wonder,” telling the stories of four products that followed a similar pattern. One person gets an idea, executes, experiences rapid growth and makes millions in sales. Then, sales drop off, and the person launches another product, which performs moderately or not well at all.
+
+This happens because one-hit wonders come not from a methodology, but from a one-off idea of one person.
+
+A creative process seeks to remove the “chance” and “luck” behind a great product and replace it with a methodology for delivering value and design consistently over time. Analyze how repeatable your methodology is with these questions:
+
+* Did the idea come from one person or from a team of people?
+* Will the product continue to satisfy a need in three to five years from now?
+* Is the product multi-generational?
+
+Now it’s your turn. If you have read this far, then you know about the six design principles inspired by the world’s greatest product designers and how they apply to the 5 products I’ve looked at. To try this out yourself, pick a product — perhaps yours, perhaps a random one, perhaps a website or mobile app — and run it through the six steps of the product design.
