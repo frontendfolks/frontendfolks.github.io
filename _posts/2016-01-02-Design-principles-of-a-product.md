@@ -11,14 +11,15 @@ This culture highlights two core elements in the creative process: the ideas and
 
 #####six core product design principles
 
-* irreducible simplicity
-* immediate intuition
-* beauty underneath
-* approachable innovation
-* form and color agreement
-* replicable methodology.
+* 1. irreducible simplicity
+* 2. immediate intuition
+* 3. beauty underneath
+* 4. approachable innovation
+* 5. form and color agreement
+* 6. replicable methodology.
 
 To make decisions, we can use these principles as a test by rating a product on a scale from 1 to 10 for each of the principles above. The lowest rating is a 1, and the highest is a 10. Each explanation below comes with examples to give you an idea of how to rate your product. Keep in mind that creative analysis is, ultimately, subjective and personal (like appreciating wine or a painting); therefore, each person’s rankings will be different.
+
 But keep in mind that the purpose of this “test” is to facilitate a thought process that leads to the best product iterations possible. Let’s begin.
 
 #####Irreducible Simplicity
@@ -48,6 +49,7 @@ While both mobile providers would argue that their approach is best, they have b
 The market share split between Android and iPhone suggests Android is more popular (78% to Apple’s 17.8%), but Apple’s 92% profit share in the smartphone industry suggests a stronger product that people are willing to pay more for. This tension highlights that what is intuitive to me might not be intuitive to you. So, remember that, when designing for intuition, empathize with your target customer.
 
 Analyze your own product against the principle of immediate intuition using the following questions:
+
 * How does using it reduce stress?
 * How long would it take someone to fully understand it?
 * In what ways can it be improved?
@@ -67,6 +69,7 @@ I looked underneath the table, and just four inches from my face were two power 
 I would rate this table  9 out of 10 for beauty underneath because of its tasteful, unobtrusive appearance and its surprisingly useful technological undergirding. Soon, we will see Powermat Spots built right into the tables, allowing customers to wirelessly charge compatible mobile devices simply by placing them on the table — no plugging or cords involved.
 
 To assess your product against the principle of beauty underneath, ask yourself:
+
 * Does my product have usefulness that is not immediately apparent?
 * Is a hidden gem of value lying below the surface of my product?
 * Does my product have a lagniappe?
@@ -80,6 +83,7 @@ These are stories that demonstrate that, for an innovation to be successful, it 
 ![innovation](../_assets/images/innovation.png)
 
 Assess your product against the principle of approachable innovation by asking these questions:
+
 * What is different about your product from others like it?
 * When you tell others about it, do they understand it right away?
 * Will customers be familiar with at least some elements of your product?
