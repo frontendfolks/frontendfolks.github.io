@@ -61,5 +61,31 @@ Hence, a second date. In the same way, when the user of a product unexpectedly d
 
 #####EXAMPLE SMART TABLE:
 
-My laptop’s battery died once in Starbucks, as I was sitting at a large dark table made of reclaimed wood. I looked forlornly at the wall, where the power sockets were, and dreaded running my charger awkwardly across the laps of the other people sitting at the table. I rustled in my bag for the charger and began apologizing for getting in the way of others, dragging my charger to the wall and bending down to plug in. I sat back down. That’s when the person across from me said, “You know there is a power socket in the table, right? It’s, like, right there.” He pointed right in front of me.
+My laptop’s battery died once in Meeting, as I was sitting at a large dark table made of reclaimed wood. I looked forlornly at the wall, where the power sockets were, and dreaded running my charger awkwardly across the laps of the other people sitting at the table. I rustled in my bag for the charger and began apologizing for getting in the way of others, dragging my charger to the wall and bending down to plug in. I sat back down. That’s when the person across from me said, “You know there is a power socket in the table, right? It’s, like, right there.” He pointed right in front of me.
 I looked underneath the table, and just four inches from my face were two power sockets. Oh. Beauty underneath.
+
+I would rate this table  9 out of 10 for beauty underneath because of its tasteful, unobtrusive appearance and its surprisingly useful technological undergirding. Soon, we will see Powermat Spots built right into the tables, allowing customers to wirelessly charge compatible mobile devices simply by placing them on the table — no plugging or cords involved.
+
+To assess your product against the principle of beauty underneath, ask yourself:
+* Does my product have usefulness that is not immediately apparent?
+* Is a hidden gem of value lying below the surface of my product?
+* Does my product have a lagniappe?
+
+#####Approachable Innovation
+
+Loudcloud introduced cloud computing five or six years too early; people didn’t get it. The Palm Pilot was a breakthrough in the market for personal digital assistants, but Palm didn’t innovate enough to keep up. Instagram, on the other hand, beautifully reduced the clutter in the social photo-viewing experience.
+
+These are stories that demonstrate that, for an innovation to be successful, it must be approachably innovative. Loudcloud’s product was too revolutionary, and it scared or confused people. The Palm Pilot became mundane, which bored or annoyed people. Instagram was approachable — falling right in the middle of the boring-scary scale.
+
+![innovation](../_assets/images/innovation.png)
+
+Assess your product against the principle of approachable innovation by asking these questions:
+* What is different about your product from others like it?
+* When you tell others about it, do they understand it right away?
+* Will customers be familiar with at least some elements of your product?
+
+#####Form And Color Agreement
+
+It is absolutely critical that form and color agree with a product’s purpose. All products — whether books, cups, apps, clothes — have a form and color for a specific purpose. For example, throughout the iPhone generations, the most visible changes have been in form and color — larger sizes, new colors, rounded edges. The iPhone 6 was very deliberately released with only three colors: gold, silver and space gray.
+
+Why these colors? Because they express the purpose of the product. If the hue of the gold or silver was a smidge deeper, the color would have said, “flash and glitz,” instead of “intelligence and power.” If you removed the “space” from “space gray,” the color would have said “dull” instead of “imaginative.” A helpful product can be ruined by misaligned form and color. Getting it right is important.
