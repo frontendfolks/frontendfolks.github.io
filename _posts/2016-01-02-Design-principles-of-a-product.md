@@ -80,7 +80,7 @@ Loudcloud introduced cloud computing five or six years too early; people didn’
 
 These are stories that demonstrate that, for an innovation to be successful, it must be approachably innovative. Loudcloud’s product was too revolutionary, and it scared or confused people. The Palm Pilot became mundane, which bored or annoyed people. Instagram was approachable — falling right in the middle of the boring-scary scale.
 
-![innovation](../_assets/images/innovation.png)
+![innovation](../_assets/images/innovation.jpg)
 
 **Assess your product against the principle of approachable innovation by asking these questions:**
 

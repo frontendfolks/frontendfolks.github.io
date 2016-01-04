@@ -377,6 +377,7 @@ header, footer, section {
     list-style: none;
     border-radius: 5px;
     padding: 15px;
+    width: 25vw;
     background: white;
     margin-top: 15px;
     margin-bottom: 15px;

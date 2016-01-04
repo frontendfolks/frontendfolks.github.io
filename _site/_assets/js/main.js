@@ -21,7 +21,7 @@ if(document.getElementById("previous_link")) {
   });
 }
 shortcut.add("Shift+Up", function() {
-  window.open('/blog','_self',false);
+  window.open('','_self',false);
 });
 
 /*

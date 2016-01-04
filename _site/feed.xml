@@ -3,11 +3,153 @@
   <channel>
     <title>&amp;lt; front-end-folks /&amp;gt;</title>
     <description>A Material Design and jekyll inspired Blog</description>
-    <link>/blog/</link>
-    <atom:link href="/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 21 Dec 2015 19:52:27 +0530</pubDate>
-    <lastBuildDate>Mon, 21 Dec 2015 19:52:27 +0530</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 04 Jan 2016 22:26:57 +0530</pubDate>
+    <lastBuildDate>Mon, 04 Jan 2016 22:26:57 +0530</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Design Principles Of A Product</title>
+        <author>Adhikari Srinivasa Kumar</author>
+        <description>&lt;p&gt;A company proves that it has a strong creative process by developing successful products repeatedly. We see this in companies like Apple, BMW and Google. Founders such as Steve Jobs formed a corporate culture with an intense focus on creativity and design. 
+This culture highlights two core elements in the creative process: the ideas and the team.&lt;/p&gt;
+
+&lt;h5 id=&quot;six-core-product-design-principles&quot;&gt;six core product design principles&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;irreducible simplicity&lt;/li&gt;
+  &lt;li&gt;immediate intuition&lt;/li&gt;
+  &lt;li&gt;beauty underneath&lt;/li&gt;
+  &lt;li&gt;approachable innovation&lt;/li&gt;
+  &lt;li&gt;form and color agreement&lt;/li&gt;
+  &lt;li&gt;replicable methodology.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;To make decisions, we can use these principles as a test by rating a product on a scale from 1 to 10 for each of the principles above. The lowest rating is a 1, and the highest is a 10. Each explanation below comes with examples to give you an idea of how to rate your product. Keep in mind that creative analysis is, ultimately, subjective and personal (like appreciating wine or a painting); therefore, each person’s rankings will be different.&lt;/p&gt;
+
+&lt;p&gt;But keep in mind that the purpose of this “test” is to facilitate a thought process that leads to the best product iterations possible. Let’s begin.&lt;/p&gt;
+
+&lt;h5 id=&quot;irreducible-simplicity&quot;&gt;Irreducible Simplicity&lt;/h5&gt;
+
+&lt;p&gt;You’ve created a product to meet a need. (If this isn’t true, then stop reading this and first build something helpful.) Now ask yourself, “Does my product have extraneous features that diminish the experience and satisfaction it provides?”&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Deciding what not to do is as important as deciding what to do.” - Steve Jobs&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Take a car. A car is created, in its most basic form, to get you from point A to point B. The audio system doesn’t help you get from point A to point B, right? Therefore, should the audio system be removed for the sake of simplicity? No. The audio system is left in because it makes the experience of getting from point A to point B more satisfying. 
+The goal of any product design is to reduce everything until you reach the point that satisfaction is not sacrificed.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Now, look at your product and apply the principle of irreducible simplicity:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What single problem does it solve clearly and thoroughly?&lt;/li&gt;
+  &lt;li&gt;Does each feature solve a single problem clearly and thoroughly?&lt;/li&gt;
+  &lt;li&gt;What features can be taken away without sacrificing satisfaction?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;immediate-intuition&quot;&gt;Immediate Intuition&lt;/h5&gt;
+
+&lt;p&gt;You’ve read about the central tension between Android and iPhone: an open system versus a closed one. Google allows its users to tinker extensively, allowing full customization of its software, whereas Apple controls the user’s experience by setting up parameters and standards that limit the iPhone’s flexibility.
+(For example, an iPhone app cannot be programmed to close another app.)&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Any product that needs a manual to work is broken.” - Elon Musk&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;While both mobile providers would argue that their approach is best, they have both created products that make different statements about the principle of immediate intuition. Google is essentially saying, “We’ve made a product that could be more intuitive — and we want you to help us figure it out. Enjoy!” Apple is claiming, “We’ve made a product for which there is no rational alternative. Enjoy!”&lt;/p&gt;
+
+&lt;p&gt;The market share split between Android and iPhone suggests Android is more popular (78% to Apple’s 17.8%), but Apple’s 92% profit share in the smartphone industry suggests a stronger product that people are willing to pay more for. This tension highlights that what is intuitive to me might not be intuitive to you. So, remember that, when designing for intuition, empathize with your target customer.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Analyze your own product against the principle of immediate intuition using the following questions:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;How does using it reduce stress?&lt;/li&gt;
+  &lt;li&gt;How long would it take someone to fully understand it?&lt;/li&gt;
+  &lt;li&gt;In what ways can it be improved?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;beauty-underneath&quot;&gt;Beauty Underneath&lt;/h5&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“[Be] fanatical in terms of care and attention to things people don’t see immediately. It’s like finishing the back of a drawer. &amp;gt; &amp;gt; Nobody’s going to see it, but you do it anyway. Products are a form of communication — they demonstrate your value system, what you &amp;gt; care about.” - Jonathan Ive&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Let’s say you put your dating hat on (or back on) and take an attractive and interested person out to dinner, sharing wine and having a great time. As the night goes on, it dawns on you that this person has an incredible story, a humble self-regard and a genuine heart for others. You stop seeing their physical attractiveness and are now passionately curious to really get to know this person.
+Hence, a second date. In the same way, when the user of a product unexpectedly discovers beauty underneath (the hidden value), they will want to continue using the product.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Example Smart Table&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;My laptop’s battery died once in Meeting, as I was sitting at a large dark table made of reclaimed wood. I looked forlornly at the wall, where the power sockets were, and dreaded running my charger awkwardly across the laps of the other people sitting at the table. I rustled in my bag for the charger and began apologizing for getting in the way of others, dragging my charger to the wall and bending down to plug in. I sat back down. That’s when the person across from me said, “You know there is a power socket in the table, right? It’s, like, right there.” He pointed right in front of me.
+I looked underneath the table, and just four inches from my face were two power sockets. Oh. Beauty underneath.&lt;/p&gt;
+
+&lt;p&gt;I would rate this table  9 out of 10 for beauty underneath because of its tasteful, unobtrusive appearance and its surprisingly useful technological undergirding. Soon, we will see Powermat Spots built right into the tables, allowing customers to wirelessly charge compatible mobile devices simply by placing them on the table — no plugging or cords involved.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;To assess your product against the principle of beauty underneath, ask yourself:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Does my product have usefulness that is not immediately apparent?&lt;/li&gt;
+  &lt;li&gt;Is a hidden gem of value lying below the surface of my product?&lt;/li&gt;
+  &lt;li&gt;Does my product have a lagniappe?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;approachable-innovation&quot;&gt;Approachable Innovation&lt;/h5&gt;
+
+&lt;p&gt;Loudcloud introduced cloud computing five or six years too early; people didn’t get it. The Palm Pilot was a breakthrough in the market for personal digital assistants, but Palm didn’t innovate enough to keep up. Instagram, on the other hand, beautifully reduced the clutter in the social photo-viewing experience.&lt;/p&gt;
+
+&lt;p&gt;These are stories that demonstrate that, for an innovation to be successful, it must be approachably innovative. Loudcloud’s product was too revolutionary, and it scared or confused people. The Palm Pilot became mundane, which bored or annoyed people. Instagram was approachable — falling right in the middle of the boring-scary scale.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../_assets/images/innovation.jpg&quot; alt=&quot;innovation&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Assess your product against the principle of approachable innovation by asking these questions:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What is different about your product from others like it?&lt;/li&gt;
+  &lt;li&gt;When you tell others about it, do they understand it right away?&lt;/li&gt;
+  &lt;li&gt;Will customers be familiar with at least some elements of your product?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;form-and-color-agreement&quot;&gt;Form And Color Agreement&lt;/h5&gt;
+
+&lt;p&gt;It is absolutely critical that form and color agree with a product’s purpose. All products — whether books, cups, apps, clothes — have a form and color for a specific purpose. For example, throughout the iPhone generations, the most visible changes have been in form and color — larger sizes, new colors, rounded edges. The iPhone 6 was very deliberately released with only three colors: gold, silver and space gray.&lt;/p&gt;
+
+&lt;p&gt;Why these colors? Because they express the purpose of the product. If the hue of the gold or silver was a smidge deeper, the color would have said, “flash and glitz,” instead of “intelligence and power.” If you removed the “space” from “space gray,” the color would have said “dull” instead of “imaginative.” A helpful product can be ruined by misaligned form and color. Getting it right is important.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;As a product designer, have you chosen the best form and colors for your product? Ask yourself these questions:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Have you researched the emotions behind the colors you’ve chosen?&lt;/li&gt;
+  &lt;li&gt;What do the curves, lines, angles, dimensions and textures say about the product?&lt;/li&gt;
+  &lt;li&gt;Do the color and form agree with your product’s purpose?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;repeatable-methodology&quot;&gt;Repeatable Methodology&lt;/h5&gt;
+
+&lt;p&gt;Apple discovered that what is critical is not necessarily the product itself, but rather the methodology by which the idea behind it comes to life. In other words, anyone can get lucky and make a good product; but a methodology can produce generations of great products.&lt;/p&gt;
+
+&lt;p&gt;The Wall Street Journal published an article, “After the One-Hit Wonder,” telling the stories of four products that followed a similar pattern. One person gets an idea, executes, experiences rapid growth and makes millions in sales. Then, sales drop off, and the person launches another product, which performs moderately or not well at all.&lt;/p&gt;
+
+&lt;p&gt;This happens because one-hit wonders come not from a methodology, but from a one-off idea of one person.&lt;/p&gt;
+
+&lt;p&gt;A creative process seeks to remove the “chance” and “luck” behind a great product and replace it with a methodology for delivering value and design consistently over time.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Analyze how repeatable your methodology is with these questions:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Did the idea come from one person or from a team of people?&lt;/li&gt;
+  &lt;li&gt;Will the product continue to satisfy a need in three to five years from now?&lt;/li&gt;
+  &lt;li&gt;Is the product multi-generational?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Now it’s your turn. If you have read this far, then you know about the six design principles inspired by the world’s greatest product designers and how they apply to the 5 products I’ve looked at. To try this out yourself, pick a product — perhaps yours, perhaps a random one, perhaps a website or mobile app — and run it through the six steps of the product design.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 02 Jan 2016 00:00:00 +0530</pubDate>
+        <link>/Design-principles-of-a-product/</link>
+        <guid isPermaLink="true">/Design-principles-of-a-product/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Why Passphrases Are More User-Friendly Than Passwords</title>
@@ -156,8 +298,8 @@ Passwords and passphrases serve the same purpose. But passwords are generally sh
 &lt;p&gt;The state of passwords today causes more headache than happiness. Passphrases are a better alternative because they are more secure and usable. A few websites out there enforce passphrases. More should follow suit in order to decrease account breaches and user frustration. No user should feel like they’ve lost their keys or had their house broken into.&lt;/p&gt;
 </description>
         <pubDate>Mon, 21 Dec 2015 00:00:00 +0530</pubDate>
-        <link>/blog/passphrases/</link>
-        <guid isPermaLink="true">/blog/passphrases/</guid>
+        <link>/passphrases/</link>
+        <guid isPermaLink="true">/passphrases/</guid>
         
         <category>sample post</category>
         
@@ -240,8 +382,8 @@ Passwords and passphrases serve the same purpose. But passwords are generally sh
 polyfills. Eventually, once browser support has improved, Polymer’s polyfill layer can be gracefully removed.&lt;/p&gt;
 </description>
         <pubDate>Mon, 21 Dec 2015 00:00:00 +0530</pubDate>
-        <link>/blog/Angular-Vs-Polymer/</link>
-        <guid isPermaLink="true">/blog/Angular-Vs-Polymer/</guid>
+        <link>/Angular-Vs-Polymer/</link>
+        <guid isPermaLink="true">/Angular-Vs-Polymer/</guid>
         
         
       </item>
