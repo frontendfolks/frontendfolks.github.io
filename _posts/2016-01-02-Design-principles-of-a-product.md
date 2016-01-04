@@ -11,12 +11,12 @@ This culture highlights two core elements in the creative process: the ideas and
 
 #####six core product design principles
 
- 1. irreducible simplicity
- 2. immediate intuition
- 3. beauty underneath
- 4. approachable innovation
- 5. form and color agreement
- 6. replicable methodology.
+ * irreducible simplicity
+ * immediate intuition
+ * beauty underneath
+ * approachable innovation
+ * form and color agreement
+ *  replicable methodology.
 
 To make decisions, we can use these principles as a test by rating a product on a scale from 1 to 10 for each of the principles above. The lowest rating is a 1, and the highest is a 10. Each explanation below comes with examples to give you an idea of how to rate your product. Keep in mind that creative analysis is, ultimately, subjective and personal (like appreciating wine or a painting); therefore, each person’s rankings will be different.
 
