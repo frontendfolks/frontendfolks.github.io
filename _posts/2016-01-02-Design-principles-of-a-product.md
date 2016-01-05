@@ -16,7 +16,7 @@ This culture highlights two core elements in the creative process: the ideas and
  * beauty underneath
  * approachable innovation
  * form and color agreement
- *  replicable methodology.
+ * replicable methodology.
 
 To make decisions, we can use these principles as a test by rating a product on a scale from 1 to 10 for each of the principles above. The lowest rating is a 1, and the highest is a 10. Each explanation below comes with examples to give you an idea of how to rate your product. Keep in mind that creative analysis is, ultimately, subjective and personal (like appreciating wine or a painting); therefore, each person’s rankings will be different.
 
@@ -24,7 +24,7 @@ But keep in mind that the purpose of this “test” is to facilitate a thought 
 
 #####Irreducible Simplicity
 
-You’ve created a product to meet a need. (If this isn’t true, then stop reading this and first build something helpful.) Now ask yourself, “Does my product have extraneous features that diminish the experience and satisfaction it provides?”
+You’ve created a product to meet a need. (If this isn’t true, then stop reading this and first build something helpful.) Now ask yourself, “Does my product have excellent features that diminish the experience and satisfaction it provides?”
 
 > "Deciding what not to do is as important as deciding what to do." - Steve Jobs
 
@@ -63,10 +63,10 @@ Hence, a second date. In the same way, when the user of a product unexpectedly d
 
 **Example Smart Table**
 
-My laptop’s battery died once in Meeting, as I was sitting at a large dark table made of reclaimed wood. I looked forlornly at the wall, where the power sockets were, and dreaded running my charger awkwardly across the laps of the other people sitting at the table. I rustled in my bag for the charger and began apologizing for getting in the way of others, dragging my charger to the wall and bending down to plug in. I sat back down. That’s when the person across from me said, “You know there is a power socket in the table, right? It’s, like, right there.” He pointed right in front of me.
+My laptop’s battery died once in Meeting, as I was sitting at a large dark table made of reclaimed wood. I looked  at the wall, where the power sockets were, and went running to pick my charger across the laps of the other people sitting at the table. I rushed in my bag for the charger and began apologizing for getting in the way of others, dragging my charger to the wall and bending down to plug in. I sat back down. That’s when the person across from me said, “You know there is a power socket in the table, right? It’s, like, right there.” He pointed right in front of me.
 I looked underneath the table, and just four inches from my face were two power sockets. Oh. Beauty underneath.
 
-I would rate this table  9 out of 10 for beauty underneath because of its tasteful, unobtrusive appearance and its surprisingly useful technological undergirding. Soon, we will see Powermat Spots built right into the tables, allowing customers to wirelessly charge compatible mobile devices simply by placing them on the table — no plugging or cords involved.
+I would rate this table  9 out of 10 for beauty underneath because of its tasteful, robust appearance and its surprisingly useful technological concepts. Soon, we will see Powermat Spots built right into the tables, allowing customers to wirelessly charge compatible mobile devices simply by placing them on the table — no plugging or cords involved.
 
 **To assess your product against the principle of beauty underneath, ask yourself:**
 
