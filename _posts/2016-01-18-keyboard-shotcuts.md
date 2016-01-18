@@ -52,30 +52,30 @@ There’s a very good option to spare yourself headache of selecting modifiers a
 Letters. One or two letter shortcuts are simpler and easier to remember, they won’t interfere with OS or browser.
 You can use one letter shortcuts for most common actions (c for comment), and two letter shortcuts for less common actions (gp for go projects page).
 
-##### LETS HAVE A LOOK SOME WEB APPLICATIONS WITH AWESOME KEYBOARD SUPPORT
+##### Lets have a look some web applications with awesome keyboard support
 
-######Twitter
+#####Twitter
 
 I use these Twitter keyboard shortcuts all the time. You don't need to learn them all. Just use . for refresh, / for search and G-R for replies and
 you're already ahead of the pack.
 
 ![Twitter](../_assets/images/twitter.png)
 
-######Gmail
+#####Gmail
 
 Gmail really gets credit for proving, in my opinion, that hotkeys on the web can be done elegantly and "just work." It may take a day or two but once you learn how to triage your email with just your keyboard you'll be surprised how fast you can get in and out and back to work.
 I use J and K to navigate, X to select then # to delete or E to archive. Bam, bam, bam.
 
 ![Gmail](../_assets/images/gmail.png)
 
-###### GitHub
+#####GitHub
 
 Another example of a site you may be on for hours if it's part of your work. Github also supports ? for help and gives lots of shortcuts. Theirs are also J and K (which have meant up and down for folks familiar with vi and nix editors) for moving up and down as well as X for toggling selection like Gmail, C for great, and "/" for search.
 You see how a pattern is developing on its own?
 
-![Github](../_assets/images/Github.png)
+![Github](../_assets/images/GitHub.png)
 
-###### Jira Bug Tracker
+#####Jira Bug Tracker
 
 Jira from Atlassian is a popular bug tracker with this same keyboard model. Every web application needs to include a web popup like this when ? is pressed.
 
@@ -94,7 +94,7 @@ and generally to better understand what our customer is dealing with when we buz
 
 ##### One-line takeaways
 
-1. Don’t override native browser (or OS) shortcuts.
-2. Support standard shortcuts that don’t contradict the previous rule, and use one or two letter shortcuts for other actions.
-3. Always have a consistent system.
-4. Good shortcuts mean happy and engaged users.
+* Don’t override native browser (or OS) shortcuts.
+* Support standard shortcuts that don’t contradict the previous rule, and use one or two letter shortcuts for other actions.
+* Always have a consistent system.
+* Good shortcuts mean happy and engaged users.
