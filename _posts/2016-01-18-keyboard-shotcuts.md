@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Angular Vs Polymer
-description: "The difference between Polymer and Angular"
-modified: 2015-12-21
+title: Keyboard Shortcuts for web application
+description: "Keyboard Shortcuts for web application"
+modified: 2016-01-18
 author: Adhikari Srinivasa Kumar
 ---
 
 ##### Keyboard Shortcuts for web application
 
-Keyboard shortcuts are a good idea for software design, and would be a great idea for web design too, if there were better ways of making keyboard shortcuts available to users. 
-Keyboard shortcuts are a powerful productivity booster widely used in desktop software. How can we apply them in web applications? Now web apps have become true working environments for many activities (including writing diplomas). 
+Keyboard shortcuts are a good idea for software design, and would be a great idea for web design too, if there were better ways of making keyboard shortcuts available to users.
+Keyboard shortcuts are a powerful productivity booster widely used in desktop software. How can we apply them in web applications? Now web apps have become true working environments for many activities (including writing diplomas).
 Productivity and speed are a business necessity, not buzz words. Some keyboard shortcuts web apps inherit from the desktop software. But can we blindly copy them? Web developers can still use accesskey to create keyboard shortcuts,
 but there are many considerations to take into account.
 
@@ -22,7 +22,7 @@ Taking hands off the keyboard to grab a mouse will slow you down because it brea
 
 ##### How do users know if accesskey shortcuts are available?
 
-One of the biggest problems with accesskey shortcuts is that users are not generally aware that they even exist, and there is no standard way of notifying them. Unlike the Windows environment, which underlines the letter of the keyboard shortcut in menus, there is no convention or "rule-of-thumb" for alerting users to the presence of an accesskey shortcut. 
+One of the biggest problems with accesskey shortcuts is that users are not generally aware that they even exist, and there is no standard way of notifying them. Unlike the Windows environment, which underlines the letter of the keyboard shortcut in menus, there is no convention or "rule-of-thumb" for alerting users to the presence of an accesskey shortcut.
 Developers may choose to mimic the conventions of the Windows environment, or they may invent their own. All of these efforts, though well intentioned, fall short of the ideal. The ideal would be to have the user agents identify accesskey shortcuts for users, and indeed some screen readers do this. But this is not helpful for sighted keyboard users.
 This should not be the responsibility of the developers at all. Nevertheless, since this ideal scenario does not exist, if developers choose to use accesskey shortcuts, they must somehow notify users that the accesskey shortcuts are available. Some methods of accomplishing this are:
 
@@ -56,7 +56,7 @@ You can use one letter shortcuts for most common actions (c for comment), and tw
 
 ######Twitter
 
-I use these Twitter keyboard shortcuts all the time. You don't need to learn them all. Just use . for refresh, / for search and G-R for replies and 
+I use these Twitter keyboard shortcuts all the time. You don't need to learn them all. Just use . for refresh, / for search and G-R for replies and
 you're already ahead of the pack.
 
 ![Twitter](../_assets/images/twitter.png)
@@ -70,7 +70,7 @@ I use J and K to navigate, X to select then # to delete or E to archive. Bam, ba
 
 ###### GitHub
 
-Another example of a site you may be on for hours if it's part of your work. Github also supports ? for help and gives lots of shortcuts. Theirs are also J and K (which have meant up and down for folks familiar with vi and *nix editors) for moving up and down as well as X for toggling selection like Gmail, C for great, and / for search.
+Another example of a site you may be on for hours if it's part of your work. Github also supports ? for help and gives lots of shortcuts. Theirs are also J and K (which have meant up and down for folks familiar with vi and nix editors) for moving up and down as well as X for toggling selection like Gmail, C for great, and "/" for search.
 You see how a pattern is developing on its own?
 
 ![Github](../_assets/images/Github.png)
@@ -83,7 +83,7 @@ Jira from Atlassian is a popular bug tracker with this same keyboard model. Ever
 
 ##### Using letter shortcuts while editing text
 
-There’s also a problem - letter shortcuts don’t work when you’re writing. For this case you can either provide a simple way to step out of the editing mode (press ESC to switch modes, or Enter to finish editing, and e to edit again, etc.), use ‘smart syntax’ (Markdown or other formatting language), or append modifiers. 
+There’s also a problem - letter shortcuts don’t work when you’re writing. For this case you can either provide a simple way to step out of the editing mode (press ESC to switch modes, or Enter to finish editing, and e to edit again, etc.), use ‘smart syntax’ (Markdown or other formatting language), or append modifiers.
 For instance, you use / to set focus to the search field, but when you’re typing you’ll need a modifier for the same action, for example, Alt /.
 
 Selecting keyboard shortcuts for a web application will mostly depend on what our customer is dealing with, but whatever you choose, make it a clear and consistent system, never set a shortcut just “because You like how it’s done in FooEditor”.
@@ -98,4 +98,3 @@ and generally to better understand what our customer is dealing with when we buz
 2. Support standard shortcuts that don’t contradict the previous rule, and use one or two letter shortcuts for other actions.
 3. Always have a consistent system.
 4. Good shortcuts mean happy and engaged users.
-
