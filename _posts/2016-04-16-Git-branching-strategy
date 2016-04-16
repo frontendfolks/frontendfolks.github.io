@@ -1,0 +1,18 @@
+---
+layout: post
+title: Git Branching Strategy
+description: "Git Branching Strategy"
+modified: 2016-04-16
+author: Adhikari Srinivasa Kumar
+---
+
+##### Git Branching Strategy
+
+we have been using a Git branching strategy based on Vincent Driessen’s successful Git branching model. Over all, the strategy that Vincent proposes is very good and may work perfectly out of the box for many cases. However,  since starting to use it I have noticed a few problems as time goes on:
+1. a LOT of branches– Since Vincent’s model has a branch for each release version, over time you get a lot of branches lying around.
+2. Redundant - At any given time, we will have 3 identical entities:
+* release branch
+* A master branch (after release-1.0 has been merged in)
+* A version Tag (1.0)
+
+
