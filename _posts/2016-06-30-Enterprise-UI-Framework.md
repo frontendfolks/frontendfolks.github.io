@@ -12,6 +12,7 @@ When we talk about the large scale enterprise Front end development is essential
 and interaction behaviors as well as the framework and code samples for the actual front end of the user interface.
 
 ##### In the current State: 
+
 * The Web is Evolving.
 * One Design - Achive Multiple Implementations
 * Hard to share things inteligently across teams
@@ -19,6 +20,7 @@ and interaction behaviors as well as the framework and code samples for the actu
 ![challenges](../_assets/images/challenges.jpg)
 
 ##### Which Leads To:
+
 * Visual Inconsistencies
 * Functional Differences
 * Wasted Development Time/Resources
