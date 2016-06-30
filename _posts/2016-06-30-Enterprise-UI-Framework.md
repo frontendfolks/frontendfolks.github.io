@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Enterprise UI Framework
+title: Key Things About Enterprise UI Framework
 description: "Enterprise UI Framework"
 modified: 2016-06-30
 author: Adhikari Srinivasa Kumar
 ---
 
-##### Enterprise UI Framework
+##### Key Things About Enterprise UI Framework
 
 When we talk about the large scale enterprise Front end development is essentially a mini-application that serves as a living library of the patterns, visual standards, 
 and interaction behaviors as well as the framework and code samples for the actual front end of the user interface.
