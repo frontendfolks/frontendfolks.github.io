@@ -72,19 +72,18 @@ and interaction behaviors as well as the framework and code samples for the actu
 11. Consider making the toolkit interactive and add video recordings of how to use the patterns for remotely dispersed teams.
 
 
-##### Good To Have Features:
+##### Good To Have Features In Enterprise UI Framework :
 
 * Authentication
 * Brokers a Trusted Applications connection if available and required
 * Brokers an OAuth connection if available and required
-* View Helpers
-* Automatic reloading of a gadget based on a time interval
-* Automatic reloading of a gadget on browser window resize
-* Automatic gadget resizing on browser window resize
+* Automatic reloading of a widget based on a time interval
+* Automatic reloading of a widget on browser window resize
+* Automatic widget resizing on browser window resize
 * Parallel Ajax resource loading for the view
 * Configuration
-* Permission-based gadget configuration
-* Configuration screen display on initial gadget load
+* Permission-based widget configuration
+* Configuration screen display on initial widget load
 * Complex configuration form building
 * Validation of configuration
 * Inline error display
@@ -93,11 +92,13 @@ and interaction behaviors as well as the framework and code samples for the actu
 * jQuery-style remoting
 * A wrapper over gadgets.io.makeRequest supplying a cleaner and more common interface for Ajax calls
 * Cookie storage
-* Cookie storage and retrieval on a gadget by gadget basis
+* Cookie storage and retrieval on a widget by widget basis
 * Performance
 * Conversion of proxied remote calls into direct calls if possible
 * Common styling
 * Loading of screens, standard icons, common CSS
+
+
 
 
 
