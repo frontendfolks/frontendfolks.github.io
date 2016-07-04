@@ -6,13 +6,13 @@ modified: 2016-06-30
 author: Adhikari Srinivasa Kumar
 ---
 
-##### Key Things About Enterprise UI Framework
+##### Key Things About Enterprise UI Framework  
 
 
 When we talk about the large scale enterprise Front end development is essentially a mini-application that serves as a living library of the patterns, visual standards, 
 and interaction behaviors as well as the framework and code samples for the actual front end of the user interface.
 
-##### In the current State: 
+##### In the current State:  
 
 
 * The Web is Evolving.
@@ -21,7 +21,7 @@ and interaction behaviors as well as the framework and code samples for the actu
 
 ![challenges](../_assets/images/challenges.jpg)
 
-##### Which Leads To:
+##### Which Leads To:  
 
 
 * Visual Inconsistencies
@@ -30,7 +30,7 @@ and interaction behaviors as well as the framework and code samples for the actu
 * Multiple Architectures & Approaches
 * Increased Maintenance Cost
 
-##### Sharing Has Many Advantages: 
+##### Sharing Has Many Advantages:   
 
 
 * Consistent look and feel
@@ -43,7 +43,7 @@ and interaction behaviors as well as the framework and code samples for the actu
   > Functionality
   > Responsive
   
-##### Points to be taken care while prototyping 
+##### Points to be taken care while prototyping   
 
 
 * Navigation – Can someone go from Point A to Point B?
@@ -54,7 +54,7 @@ and interaction behaviors as well as the framework and code samples for the actu
 * Search – Can people find what they are seeking with search?
 * Guidance – Does the application give feedback and cues to help navigation?
 
-##### How to kickstart Implementaion 
+##### How to kickstart Implementaion   
 
 
 1. Design a very basic layout with a simple taxonomy for grouping your patterns on the left hand side of the page and a list of your actual patterns on the right in grid or image display.
@@ -80,7 +80,7 @@ and interaction behaviors as well as the framework and code samples for the actu
 11. Consider making the toolkit interactive and add video recordings of how to use the patterns for remotely dispersed teams.
 
 
-##### Good To Have Features In Enterprise UI Framework :
+##### Good To Have Features In Enterprise UI Framework :  
 
 
 * Authentication
