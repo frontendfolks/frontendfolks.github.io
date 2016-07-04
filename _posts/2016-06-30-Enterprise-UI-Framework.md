@@ -8,10 +8,12 @@ author: Adhikari Srinivasa Kumar
 
 ##### Key Things About Enterprise UI Framework
 
+
 When we talk about the large scale enterprise Front end development is essentially a mini-application that serves as a living library of the patterns, visual standards, 
 and interaction behaviors as well as the framework and code samples for the actual front end of the user interface.
 
 ##### In the current State: 
+
 
 * The Web is Evolving.
 * One Design - Achive Multiple Implementations
@@ -21,6 +23,7 @@ and interaction behaviors as well as the framework and code samples for the actu
 
 ##### Which Leads To:
 
+
 * Visual Inconsistencies
 * Functional Differences
 * Wasted Development Time/Resources
@@ -28,6 +31,7 @@ and interaction behaviors as well as the framework and code samples for the actu
 * Increased Maintenance Cost
 
 ##### Sharing Has Many Advantages: 
+
 
 * Consistent look and feel
 * Allows for shared understanding of design and front end development best practices
@@ -41,6 +45,7 @@ and interaction behaviors as well as the framework and code samples for the actu
   
 ##### Points to be taken care while prototyping 
 
+
 * Navigation – Can someone go from Point A to Point B?
 * Creative Design – Do people want to look at your application?
 * Professionalism – How polished is the application’s presentation?
@@ -50,6 +55,7 @@ and interaction behaviors as well as the framework and code samples for the actu
 * Guidance – Does the application give feedback and cues to help navigation?
 
 ##### How to kickstart Implementaion 
+
 
 1. Design a very basic layout with a simple taxonomy for grouping your patterns on the left hand side of the page and a list of your actual patterns on the right in grid or image display.
 
@@ -76,6 +82,7 @@ and interaction behaviors as well as the framework and code samples for the actu
 
 ##### Good To Have Features In Enterprise UI Framework :
 
+
 * Authentication
 * Brokers a Trusted Applications connection if available and required
 * Brokers an OAuth connection if available and required
@@ -99,9 +106,3 @@ and interaction behaviors as well as the framework and code samples for the actu
 * Conversion of proxied remote calls into direct calls if possible
 * Common styling
 * Loading of screens, standard icons, common CSS
-
-
-
-
-
-
