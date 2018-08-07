@@ -1,7 +1,7 @@
 /**
 * Variables
 */
-@import url(http://fonts.googleapis.com/css?family=Roboto:400,300,500,400italic,500italic);
+
 @import url(http://fonts.googleapis.com/css?family=Inconsolata:400,700);
 /**
 * Fonts
@@ -213,7 +213,7 @@ pre {
 * Body
 */
 body {
-  font-family: Roboto, Helvetica Neue, sans-serif;
+  font-family: Helvetica Neue, sans-serif;
   font-size: 16px;
   line-height: 1.5;
   font-weight: 300;
